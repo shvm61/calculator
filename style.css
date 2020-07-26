@@ -1,0 +1,20 @@
+.display {
+  border: 2px solid black;
+  height: 3rem;
+  width: 17rem;
+  font-size: 2.5rem;
+  text-align: right;
+}
+.keypad {
+  border: 2px solid black;
+  /* height: 300px; */
+  width: 17rem;
+}
+.button{
+  width: 4rem;
+  height: 4rem;
+  font-size: 2rem;
+}
+#zero{
+  width: 8.3rem;
+}
